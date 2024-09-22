@@ -26,8 +26,8 @@ int main() {
         // Add the primary diagonal element (where row == col)
         diagonalSum += matrix[i][i];
 
-        // Add the secondary diagonal element (where row + col == n - 1), 
-        // avoid adding the center element twice for odd size
+        /* Add the secondary diagonal element (where row + col == n - 1), 
+            avoid adding the center element twice for odd size */
         if(i != (matrixSize - i - 1)) {
             diagonalSum += matrix[i][matrixSize - i - 1];
         }

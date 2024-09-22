@@ -40,14 +40,15 @@ int main() {
         }
     }
 
-    // Check if matrix multiplication is possible (columns of A should match rows of B)
+    /* Check if matrix multiplication is possible
+        (columns of A should match rows of B)*/
     if(colsA != rowsB) {
         cout << "Matrices cannot be multiplied!" << endl;
     } else {
-        // Declare the resulting matrix with dimensions (rowsA x colsB)
+        // Declare the resulting matrix
         int resultMatrix[rowsA][colsB];
 
-        // Perform matrix multiplication: resultMatrix[i][j] = sum of (A[i][k] * B[k][j])
+        // Perform matrix multiplication
         for(int i = 0; i < rowsA; i++) {
             for(int j = 0; j < colsB; j++) {
                 int sum = 0;
