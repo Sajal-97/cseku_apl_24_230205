@@ -15,6 +15,7 @@ The Hospital Management System is designed to manage the operations of a hospita
 
 ## Project Structure
 
+```
 hospital-management-system/
 - │
 - ├── src/
@@ -40,7 +41,7 @@ hospital-management-system/
 - ├── README.md
 - └── .gitignore
 
-
+```
 
 ---
 
