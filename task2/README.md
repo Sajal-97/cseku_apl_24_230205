@@ -19,26 +19,26 @@ hospital-management-system/
 - │
 - ├── src/
 - │   ├── IPatientManagement.java
-│   ├── IStaffManagement.java
-│   ├── IAppointmentManagement.java
-│   ├── IBillingManagement.java
-│   ├── Patient.java
-│   ├── Staff.java
-│   ├── Doctor.java
-│   ├── Nurse.java
-│   ├── Appointment.java
-│   ├── Billing.java
-│   ├── PatientManagement.java
-│   ├── StaffManagement.java
-│   ├── AppointmentManagement.java
-│   ├── BillingManagement.java
-│   └── Main.java
-│
-├── bin/
-│   └── (compiled .class files)
-│
-├── README.md
-└── .gitignore
+- │   ├── IStaffManagement.java
+- │   ├── IAppointmentManagement.java
+- │   ├── IBillingManagement.java
+- │   ├── Patient.java
+- │   ├── Staff.java
+- │   ├── Doctor.java
+- │   ├── Nurse.java
+- │   ├── Appointment.java
+- │   ├── Billing.java
+- │   ├── PatientManagement.java
+- │   ├── StaffManagement.java
+- │   ├── AppointmentManagement.java
+- │   ├── BillingManagement.java
+- │   └── Main.java
+- │
+- ├── bin/
+- │   └── (compiled .class files)
+- │
+- ├── README.md
+- └── .gitignore
 
 
 
