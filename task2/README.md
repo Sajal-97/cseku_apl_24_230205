@@ -103,4 +103,4 @@ hospital-management-system/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sajal_97/task2/hospital_management_system
+   git clone https://github.com/Sajal-97/task2/hospital_management_system
