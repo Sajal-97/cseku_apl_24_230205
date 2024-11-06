@@ -34,10 +34,6 @@ hospital-management-system/
 │   ├── AppointmentManagement.java
 │   ├── BillingManagement.java
 │   └── Main.java
-│
-├── bin/
-│   └── (compiled .class files)
-│
 ├── README.md
 └── .gitignore
 
