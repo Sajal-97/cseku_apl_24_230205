@@ -15,7 +15,7 @@ The Hospital Management System is designed to manage the operations of a hospita
 
 ## Project Structure
 
-#hospital-management-system/
+# hospital-management-system/
 │
 ├── src/
 │   ├── IPatientManagement.java
